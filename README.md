@@ -1,4 +1,3 @@
 # odin-recipes
 
-This is a website showing basic recipes based exclusively on burgers. The real-world example helped me recap my practical knowledge on applying HTML writing tags and elements. This has demonstrated to me what the user interface will look like if the web page was only written in HTML.
-
+This is a website showing recipes for creating burgers. The real-world example helped me recap my practical knowledge on writing HTML tags and elements. Additionally, this has increased my understanding on the website's user interface if HTML is only applied.
