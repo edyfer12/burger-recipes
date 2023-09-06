@@ -18,19 +18,20 @@ body {
 
 .text {
     color: white;
+    font: Courier;
 }
 
 .heading {
     color: orange;
     font-size:30px;
-    font:Arial, sans-serif;
 }
 
-.text.list, {
-    font-size:20px;
+.text.list, .text.info{
+    font-size:18px;
 }
 
 .heading.sub{
     font-size:20px;
+    text-align:left;
 }
 
