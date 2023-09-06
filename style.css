@@ -35,6 +35,7 @@ body {
     text-align:left;
 }
 
-div {
-    text-align:center;
+div, .heading {
+    text-align: center;
 }
+
