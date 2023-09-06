@@ -9,3 +9,9 @@ h1 {
 h1, h2 {
     font-weight:600;
 }
+
+/* Stylize the whole webpage for the website */
+
+body {
+    background-color: lightgrey;
+}
