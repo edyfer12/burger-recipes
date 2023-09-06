@@ -1,17 +1,36 @@
 /* Use CSS rule to stylize the heading for all pages*/
-
+/*
 h1 {
     font-size: 40px;
 }
 
 /* Stylize the headings and subheadings for all pages */
-
+/*
 h1, h2 {
     font-weight:600;
 }
-
+*/
 /* Stylize the whole webpage for the website */
 
 body {
-    background-color: lightgrey;
+    background-color: black;
 }
+
+.text {
+    color: white;
+}
+
+.heading {
+    color: orange;
+    font-size:30px;
+    font:Arial, sans-serif;
+}
+
+.text.list, {
+    font-size:20px;
+}
+
+.heading.sub{
+    font-size:20px;
+}
+
