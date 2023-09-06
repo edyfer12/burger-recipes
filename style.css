@@ -1,28 +1,38 @@
 /* Stylize the whole page for the entire website */
+
 body {
     background-color: black;
 }
+
 /* Stylize all the HTML element consisting of text for all pages */
+
 .text {
     font: Courier;
     color: white;
 }
+
 /* Stylize the main heading across all pages */
+
 .heading {
     color: orange;
     font-size:30px;
 }
+
 /* Stylize the information and list items for all pages */
+
 .text.list, .text.info {
     font-size:18px;
 }
+
 /* Stylize the subheading for all pages */
+
 .heading.sub {
     font-size:20px;
     text-align:left;
 }
+
 /* Stylize the div element and heading across all pages */
+
 div, .heading {
     text-align: center;
 }
-
