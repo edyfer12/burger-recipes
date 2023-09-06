@@ -5,3 +5,8 @@ h1 {
     font-weight: bold;
 }
 
+/* Stylize the headings and subheadings for all pages */
+
+h1, h2 {
+    font-weight:600;
+}
