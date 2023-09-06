@@ -33,6 +33,6 @@ body {
 
 /* Stylize the div element and heading across all pages */
 
-div, .heading, #main-list {
+div, .heading{
     text-align: center;
 }
