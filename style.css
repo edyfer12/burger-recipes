@@ -38,3 +38,7 @@ div, .heading{
 }
 
 /* Stylise the universal selector */
+
+* {
+    border: 1px solid white;
+}
