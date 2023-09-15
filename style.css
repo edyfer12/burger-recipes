@@ -83,14 +83,8 @@ a {
     margin: 0 360px;
 }
 
-/* Stylise chain selector */
-
-ol.sublist {
-    margin-bottom: 50px;
-}
-
 /* Stylise grouping selectors */
 
 ol.sublist, ul.sublist {
-    
+    margin-left: 385px;
 }
