@@ -22,8 +22,12 @@ body {
 /* Stylize the information and list items for all pages */
 
 .text.list, .text.info {
-    font-size:18px;
+    font-size: 18px;
     text-decoration: none;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    display: block;
+    border: none;
 }
 
 /* Stylize the subheading for all pages */
