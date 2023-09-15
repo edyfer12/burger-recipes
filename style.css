@@ -54,6 +54,7 @@ div, .heading{
 .index {
       width: 900px;
       margin: 75px auto;
+      border: 1px solid white;
 }
 
 /* Stylise class selector with pseudoclass */
