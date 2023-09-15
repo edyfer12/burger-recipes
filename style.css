@@ -24,10 +24,7 @@ body {
 .text.list, .text.info {
     font-size: 18px;
     text-decoration: none;
-    padding-bottom: 50px;
-    padding-top: 50px;
-    display: block;
-    border: none;
+    
 }
 
 /* Stylize the subheading for all pages */
@@ -59,10 +56,17 @@ div, .heading{
       margin: 75px auto;
 }
 
-/* Stylise chain class selector with pseudoclass */
-.text.list:hover{
+/* Stylise class selector with pseudoclass */
+a:hover{
     background-color: orange;
     color: black;
 }
 
 /* Stylise the chain selector */
+
+a {
+    padding-bottom: 50px;
+    padding-top: 50px;
+    display: block;
+    border: none;
+}
