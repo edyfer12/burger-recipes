@@ -71,6 +71,7 @@ a {
     border: none;
 }
 
+/* Stylise the descendant combinator */
 
 .index li {
     border-bottom: 1px solid white;
