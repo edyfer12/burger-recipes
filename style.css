@@ -55,3 +55,7 @@ div, .heading{
 }
 
 /* Stylise type selector */
+
+a {
+    display: block;
+}
