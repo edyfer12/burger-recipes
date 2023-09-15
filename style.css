@@ -50,5 +50,6 @@ div, .heading{
 /* Stylize the class selector */
 
 .index {
-    
+      width: 900px;
+      margin: 75px auto;
 }
