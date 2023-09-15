@@ -85,3 +85,6 @@ a {
 
 /* Stylise type selector */
 
+ol {
+    margin-bottom: 50px;
+}
