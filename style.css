@@ -23,6 +23,7 @@ body {
 
 .text.list, .text.info {
     font-size:18px;
+    text-decoration: none;
 }
 
 /* Stylize the subheading for all pages */
